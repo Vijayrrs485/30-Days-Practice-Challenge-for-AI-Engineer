@@ -1,0 +1,1 @@
+# 30-Days-Practice-Challenge-for-AI-Engineer
