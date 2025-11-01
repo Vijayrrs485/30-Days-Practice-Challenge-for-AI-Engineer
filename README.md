@@ -26,6 +26,8 @@
 - Missing data handling (dropna, fillna)
 - Groupby and aggregation
 - Merging and pivoting datasets
+## Project: Image Data Simulator
+Simulated RGB image manipulation using NumPy arrays
 
 ## Project: Customer Churn Analysis
 Analyzed 1000 customer records, cleaned data, engineered features, and extracted insights for ML modeling.
@@ -35,5 +37,4 @@ Analyzed 1000 customer records, cleaned data, engineered features, and extracted
 - Longer tenure = lower churn rate
 - Data cleaned and ready for ML models
 
-## Project: Image Data Simulator
-Simulated RGB image manipulation using NumPy arrays
+
