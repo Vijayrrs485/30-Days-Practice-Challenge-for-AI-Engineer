@@ -12,6 +12,9 @@
 - Broadcasting and reshaping
 - Statistical operations
 - Boolean indexing
+  
+## Project: Image Data Simulator
+Simulated RGB image manipulation using NumPy arrays
 
 # Day 2: Pandas & Data Manipulation
 
@@ -26,8 +29,6 @@
 - Missing data handling (dropna, fillna)
 - Groupby and aggregation
 - Merging and pivoting datasets
-## Project: Image Data Simulator
-Simulated RGB image manipulation using NumPy arrays
 
 ## Project: Customer Churn Analysis
 Analyzed 1000 customer records, cleaned data, engineered features, and extracted insights for ML modeling.
