@@ -38,4 +38,28 @@ Analyzed 1000 customer records, cleaned data, engineered features, and extracted
 - Longer tenure = lower churn rate
 - Data cleaned and ready for ML models
 
+  # Day 3: Data Visualization (Matplotlib & Seaborn)
+
+## What I Learned:
+- Visualization is essential BEFORE building any AI model
+- Matplotlib provides low-level control, Seaborn adds statistical power
+- Every AI project needs training curves, confusion matrices, and feature importance plots
+- Correlation heatmaps help identify redundant features
+
+## Key Concepts:
+- Line plots, scatter plots, histograms, box plots
+- Subplots for comparing multiple visualizations
+- Seaborn's statistical plots (regplot, pairplot, heatmap)
+- Customizing colors, labels, and styles
+
+## Project: AI Model Performance Visualizer
+Created 6 professional visualizations:
+1. Training/validation loss and accuracy curves
+2. Confusion matrix for classification
+3. Feature importance ranking
+4. Model comparison across algorithms
+5. Learning rate impact analysis
+6. Complete performance dashboard
+
+
 
