@@ -58,8 +58,7 @@ Created 6 professional visualizations:
 2. Confusion matrix for classification
 3. Feature importance ranking
 4. Model comparison across algorithms
-5. Learning rate impact analysis
-6. Complete performance dashboard
+5. Complete performance dashboard
 
 
 
