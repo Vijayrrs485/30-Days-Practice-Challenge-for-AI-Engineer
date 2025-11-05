@@ -43,7 +43,7 @@ Analyzed 1000 customer records, cleaned data, engineered features, and extracted
 ## What I Learned:
 - Visualization is essential BEFORE building any AI model
 - Matplotlib provides low-level control, Seaborn adds statistical power
-- Every AI project needs training curves, confusion matrices, and feature importance plots
+- Every AI project needs training curves, confusion matrices, and feature importance plots.
 - Correlation heatmaps help identify redundant features
 
 ## Key Concepts:
